@@ -1,0 +1,3 @@
+# Project exclude paths
+/001-link-userservice-provider/target/
+/002-link-consumer/target/
